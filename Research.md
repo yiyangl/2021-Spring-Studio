@@ -1,4 +1,6 @@
 ## [Porocity research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity)
+
+[![Stacking](https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/Research/porocity/cover_picture.jpg?raw=true)](https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity)
 <br/>
 ## [Stacking Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
 
