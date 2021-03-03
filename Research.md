@@ -2,6 +2,7 @@
 <br/>
 [Stacking Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
 <br/>
+[Floating City Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating City)
 
 Ted&Huey's presentation
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcREzO3Unwooob4wOOWULBMHdu9ISg40RN_Ja8kDPWDl1vGB7p2SM9oktqH7vg3w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -11,9 +12,6 @@ Ted&Huey's presentation
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsfU6xS-13yQrhrR1UdioB8MmfH_x7gfnlLSA1BVwYjdOjl4uQs7rWfIZjiQGEpGmGBHHjdyCqX6UQ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br/>
 
- <br/>
-## Sarry&Rachel&Kristen Group Presentation
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzEnd_1Qs4XGA-FVxjUqBsPlSviJQpEMSKxr9TZrf3d1Gi8y2jqZajfXJ4VxVUyRqg-kUmcXclKQ1Z/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
