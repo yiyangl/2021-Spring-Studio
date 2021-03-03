@@ -1,10 +1,11 @@
-[Porocity research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity)
+## [Porocity research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Porocity)
 <br/>
-[Stacking Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
+## [Stacking Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
 <br/>
-[Floating City Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating)
+## [Floating City Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating)
 
-Ted&Huey's presentation
+## Ted&Huey's presentation
+This presentation is mainly discussing about the Project Spaceship Earth 2050. This research is forcing on the close ecosystem and rotating wheel spaceship.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcREzO3Unwooob4wOOWULBMHdu9ISg40RN_Ja8kDPWDl1vGB7p2SM9oktqH7vg3w/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br/>
