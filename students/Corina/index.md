@@ -1,9 +1,10 @@
 # CORINA | ZIXUAN ZHANG
 
-## About me
+## Self-introduction
+A junior student from Wenzhou-Kean University, Michael Graves College, School of Public Architecture. 
 
 
 
-## Projects
+## Week 1 Group Research
 
 ### under construction
