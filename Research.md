@@ -2,7 +2,7 @@
 <br/>
 ## [Stacking Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Stacking)
 <br/>
-## [Floating City Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating)
+## [Floating City Research](https://steenblikrs.github.io/2021-Spring-Studio/Research/Floating/index)
 
 
 
