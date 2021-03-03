@@ -26,8 +26,10 @@ Graham MaKay and R. Spencer Steenblik have been running the 3rd year architectur
 [Huey](https://steenblikrs.github.io/2021-Spring-Studio/students/Huey/Huey.md)
 <br/>
 [Ted]()
-
 <br/>
+[Hannah]()
+<br/>
+
 <br/>
 <br/>
 <br/>
