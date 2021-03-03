@@ -1,1 +1,8 @@
-....
+[![Photo of Spencer]()]()
+
+Biography: hwfwajfenhlauwfhiawuflaiewbncl;SJNClozsceouiawncuiearlhfeiwjcxozcnjkhseuilchlslDKNvcuieawrhcidsniJKclniulaehvyeablidncoisajceawluifhwcjsldjfhewaojcindjsxnjkvcsuiclndewuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+
+layout: minimal
+title: "Huey"
+permalink: https://github.com/steenblikrs/2021-Spring-Studio/blob/84ae5e0cdf8152b1a0c85c3e461af540198b3350/students/Huey/Huey
+
